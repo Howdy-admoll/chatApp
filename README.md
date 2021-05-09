@@ -25,3 +25,4 @@ Simplified concept of chat application for php beginners
 
 - Copy downloaded or forked HELLO file to htdocs (C:/Program Files/XAMPP/htdocs)
 
+ In order to get the dashboard for localhost: search ```http://localhost``` in any browser.
