@@ -31,12 +31,12 @@ Simplified concept of chat application for php beginners
 - Now navigate to ```phpMyadmin``` in the menu-bar or search ```http://localhost/phpmyadmin``` in your browser
 1. Click ```New``` to create new Database (Database name = ```chat``` then navigate to the dropdown tab and select ```collation```)
 2. click the button ```create```
-3. Go to the ```impport``` tab in your  Chat database and click IMPORT
+3. Go to the ```import``` tab in your  Chat database and click IMPORT
 4. upload the ```chat_info``` file contained in your sql database folder
 5. click ```Go``` to complete the import.
 
 - Now you're done with Database setup
 
-- In order to get the application for localhost: search ```http://localhost/chat``` in the browser.
+- In order to get your application in localhost: search ```http://localhost/chat``` in the browser.
 
 - Happy coding and chatting
