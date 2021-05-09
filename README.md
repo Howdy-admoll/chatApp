@@ -19,3 +19,9 @@ Simplified concept of chat application for php beginners
 - Once you are done with Xampp installation, let’s move ahead to ```setting up the Database``` and see how to run a PHP file in xampp server.
 
 ## Setting Up The Database 
+
+- After completion of the installation, you can use the XAMPP Control Panel to start/ stop all servers. Start Mysql and Apache servers. <p align="center">
+<img src="https://github.com/Howdy-admoll/Howdy-admoll/blob/main/images/strtXampp.jpg" alt="start" width="auto" height="auto"/></p>
+
+- Copy downloaded or forked HELLO file to htdocs (C:/Program Files/XAMPP/htdocs)
+
